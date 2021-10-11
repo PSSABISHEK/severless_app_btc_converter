@@ -1,3 +1,7 @@
+## What does the action do ?
+This action is hosted as a serverless application in IBM Cloud function. It takes a price and currency and returns a message contains the equivalent amount of Bitcoin.
+This is done as an exercise from [Openwhisk Bootcamp](https://github.com/IBM-Cloud/openwhisk-workshops/blob/master/bootcamp/ex1%20-%20creating%20and%20invoking%20actions/README.md#exercises)
+
 ## Test with currencies in the Coindeck API response.
 
 ```
